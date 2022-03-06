@@ -16,3 +16,4 @@ mongoimport --uri mongodb+srv://usuario1:usuario1@cluster0.n56fb.mongodb.net/res
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MongoExport Atlas a JSON (nube)
 
+mongoexport --uri mongodb+srv://usuario1:usuario1@cluster0.n56fb.mongodb.net/test --collection empleados --type json --out C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\EmpleadosAtlas.json

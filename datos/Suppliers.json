@@ -1,0 +1,15 @@
+{"_id":1,"IDSuppl":"Sup1","Región":"Andalucía","Alimentos":["Vegetales","Pescado"],"PreciosKg":[{"Producto":"Vegetales","Precio":1.2},{"Producto":"Pescado","Precio":2}],"RepFinde":false}
+{"_id":2,"IDSuppl":"Sup2","Región":"Andalucía","Alimentos":["Carne","Vino"],"PreciosKg":[{"Producto":"Carne","Precio":2.6},{"Producto":"Vino","Precio":4.2}],"RepFinde":true}
+{"_id":3,"IDSuppl":"Sup3","Región":"Andalucía","Alimentos":["Vegetales","Pescado"],"PreciosKg":[{"Producto":"Vegetales","Precio":1.2},{"Producto":"Legumbres","Precio":0.9}],"RepFinde":true}
+{"_id":4,"IDSuppl":"Sup4","Región":"Andalucía","Alimentos":["Vegetales","Pescado"],"PreciosKg":[{"Producto":"Vegetales","Precio":1.6},{"Producto":"Pescado","Precio":2.3}],"RepFinde":true}
+{"_id":5,"IDSuppl":"Sup5","Región":"Madrid","Alimentos":["Vegetales","Pescado"],"PreciosKg":[{"Producto":"Vegetales","Precio":1.4},{"Producto":"Pescado","Precio":2.7}],"RepFinde":true}
+{"_id":6,"IDSuppl":"Sup6","Región":"Madrid","Alimentos":["Vegetales","Pescado"],"PreciosKg":[{"Producto":"Vegetales","Precio":1.4},{"Producto":"Pescado","Precio":2.7}],"RepFinde":false}
+{"_id":7,"IDSuppl":"Sup7","Región":"Madrid","Alimentos":["Carne","Vino"],"PreciosKg":[{"Producto":"carne","Precio":1.6},{"Producto":"vino","Precio":5}],"RepFinde":true}
+{"_id":8,"IDSuppl":"Sup8","Región":"Valencia","Alimentos":["Vegetales","Pescado"],"PreciosKg":[{"Producto":"Vegetales","Precio":1.2},{"Producto":"Pescado","Precio":2}],"RepFinde":false}
+{"_id":9,"IDSuppl":"Sup9","Región":"Cataluña","Alimentos":["Vegetales","Pescado"],"PreciosKg":[{"Producto":"Vegetales","Precio":1.2},{"Producto":"Pescado","Precio":2}],"RepFinde":false}
+{"_id":10,"IDSuppl":"Sup10","Región":"Extremadura","Alimentos":["Vegetales","Pescado"],"PreciosKg":[{"Producto":"Vegetales","Precio":0.9},{"Producto":"Pescado","Precio":2}],"RepFinde":false}
+{"_id":11,"IDSuppl":"Sup11","Región":"Galicia","Alimentos":["Vegetales","Pescado"],"PreciosKg":[{"Producto":"Vegetales","Precio":1.2},{"Producto":"Pescado","Precio":2.1}],"RepFinde":false}
+{"_id":12,"IDSuppl":"Sup12","Región":"Valencia","Alimentos":["Carne","Vino"],"PreciosKg":[{"Producto":"Carne","Precio":2.2},{"Producto":"Vino","Precio":4}],"RepFinde":false}
+{"_id":13,"IDSuppl":"Sup13","Región":"Galicia","Alimentos":["Carne","Vino"],"PreciosKg":[{"Producto":"Carne","Precio":2.2},{"Producto":"Vino","Precio":4}],"RepFinde":false}
+{"_id":14,"IDSuppl":"Sup14","Región":"Cataluña","Alimentos":["Carne","Vino"],"PreciosKg":[{"Producto":"Carne","Precio":2.2},{"Producto":"Vino","Precio":4}],"RepFinde":false}
+{"_id":15,"IDSuppl":"Sup15","Región":"Extremadura","Alimentos":["Carne","Vino"],"PreciosKg":[{"Producto":"Carne","Precio":2.2},{"Producto":"Vino","Precio":4}],"RepFinde":false}

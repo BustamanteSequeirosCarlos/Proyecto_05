@@ -1,0 +1,18 @@
+Mongoexport Local a JSON
+
+mongoexport /d restaurantes /c empleados /type json /o C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\Empleados.json
+mongoexport /d restaurantes /c locales /type json /o C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\Locales.json
+mongoexport /d restaurantes /c suppliers /type json /o C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\Suppliers.json
+mongoexport /d restaurantes /c regiones /type json /o C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\Regiones.json
+mongoexport /d restaurantes /c Empleados-Andalucía /type json /o C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\EmpAnd.json
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MongoImport JSON a Local
+
+mongoimport /d restaurantes /c Empleados-Andalucía /type json /file C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\EmpAnd.json
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MongoImport JSON a Atlas (nube)
+
+mongoimport --uri mongodb+srv://usuario1:usuario1@cluster0.n56fb.mongodb.net/restaurantes --collection empleados --type json --file C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\Empleados.json
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MongoExport Atlas a JSON (nube)
+

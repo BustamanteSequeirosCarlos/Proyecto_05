@@ -12,8 +12,8 @@ mongoimport /d restaurantes /c Empleados-Andalucía /type json /file C:\Users\ca
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MongoImport JSON a Atlas (nube)
 
-mongoimport --uri mongodb+srv://usuario1:usuario1@cluster0.n56fb.mongodb.net/restaurantes --collection empleados --type json --file C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\Empleados.json
+mongoimport --uri mongodb+srv://usuario1:<password>@cluster0.n56fb.mongodb.net/restaurantes --collection empleados --type json --file C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\Empleados.json
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MongoExport Atlas a JSON (nube)
 
-mongoexport --uri mongodb+srv://usuario1:usuario1@cluster0.n56fb.mongodb.net/test --collection empleados --type json --out C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\EmpleadosAtlas.json
+mongoexport --uri mongodb+srv://usuario1:<password>@cluster0.n56fb.mongodb.net/test --collection empleados --type json --out C:\Users\carlo\Documents\ASIR\1º\GBD\DB\Proyectos\ProyectoTrimestral2MongoDB\datos\EmpleadosAtlas.json

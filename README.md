@@ -22,7 +22,6 @@ A la hora de hacer las consultas he utilizado los siguientes operadores de etapa
 - $group
 - $out
 - $sort
-- $push
 
 Y los siguientes operadores:
 
